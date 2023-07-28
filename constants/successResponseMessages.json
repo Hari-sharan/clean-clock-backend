@@ -1,0 +1,22 @@
+{
+  "2000" : "Login successfully",
+  "2001" : "user registered successfully",
+  "2002" : "OTP sent successfully",
+  "2003" : "User updated successfully",
+  "2004" : "User not updated successfully",
+  "2005" : "Category created successfully",
+  "2006" : "Categories found successfully",
+  "2007" : "Category deleted successfully",
+  "2008" : "Admin is already exists",
+  "2009" : "Admin registered successfully",
+  "2010" : "Invalid email or password",
+
+
+  "200": "success",
+
+  "4001" : "email already exist,Please try with another email",
+  "4002" : "User not registered",
+  "4003" : "Category not found to delete"
+  
+  
+}
